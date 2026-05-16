@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. You will need to [sign up for a GitHub account](https://github.com/signup), and [fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) so you can edit it.
+1. You will need to [sign up for a  GitHub account](https://github.com/signup), and [fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) so you can edit it.
 2. Navigate to the **Actions** tab and click the "I understand my workflows, go ahead and run them" button to enable builds.
    ![Actions tab with "I understand my workflows" button](https://i.imgur.com/B7cTAE6.png)
 3. Edit [config/murphpad.conf](config/murphpad.conf) to enable/disable features. Edit [config/murphpad.keymap](config/murphpad.keymap) to change the keymap. Lastly, make sure the [build.yaml](build.yaml) file has your board in the "boards" list.
